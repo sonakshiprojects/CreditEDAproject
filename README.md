@@ -64,5 +64,5 @@ The project showcases a complete data science workflow — from **cleaning and e
 ## 👩‍💻 Author
 
 **Sonakshi Kumar**  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+
 
